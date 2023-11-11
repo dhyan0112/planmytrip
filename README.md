@@ -1,1 +1,1 @@
-# planmytrip
+# TripApp
